@@ -1,5 +1,5 @@
 # <h1> Description </h1>
-This was one of my capstone project to qualify for IBM data science professional certificate on Coursera
+This was one of my capstone projects to qualify for IBM data science professional certificate on Coursera
 
 # <h3> Objectives </h3>
 Questions that will be answered at the end of this project :¶
